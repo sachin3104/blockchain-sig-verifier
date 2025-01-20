@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository, **charter-21BCE0433**, contains a **Signature Verification** solution for blockchain transactions. It supports **ECDSA** and **Schnorr-like** signatures using Merkle proofs, providing a robust mechanism to verify the validity of blockchain transaction signatures.
+This repository, **blockchain-sig-verifier**, contains a **Signature Verification** solution for blockchain transactions. It supports **ECDSA** and **Schnorr-like** signatures using Merkle proofs, providing a robust mechanism to verify the validity of blockchain transaction signatures.
 
 ### Key Features
 
